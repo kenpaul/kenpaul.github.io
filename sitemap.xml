@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/hugosite/</loc>
+    <loc>https://kenpaul.github.io/post/hugosite/</loc>
     <lastmod>2018-10-02T08:39:27-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/vmconaws/</loc>
+    <loc>https://kenpaul.github.io/post/vmconaws/</loc>
     <lastmod>2018-10-02T08:39:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/hyperconverged/</loc>
+    <loc>https://kenpaul.github.io/post/hyperconverged/</loc>
     <lastmod>2018-10-02T08:39:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/docsascode/</loc>
+    <loc>https://kenpaul.github.io/post/docsascode/</loc>
     <lastmod>2018-10-02T08:34:47-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/my-first-post/</loc>
+    <loc>https://kenpaul.github.io/post/my-first-post/</loc>
     <lastmod>2018-10-02T08:28:30-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://kenpaul.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://kenpaul.github.io/</loc>
     <lastmod>2018-10-02T08:39:27-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://kenpaul.github.io/post/</loc>
     <lastmod>2018-10-02T08:39:27-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://kenpaul.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
